@@ -1,0 +1,39 @@
+# Ignore virtual environment
+venv/
+.env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code settings
+.vscode/
+*.code-workspace
+
+# Streamlit cache
+.streamlit/
+
+# Jupyter and data
+.ipynb_checkpoints/
+*.csv
+*.xlsx
+*.db
+
+# Logs and temp files
+*.log
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Git and backup
+*.bak
+*.swp
+*.swo
+
+# OneDrive sync cache
+~$*
