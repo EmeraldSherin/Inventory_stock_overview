@@ -15,6 +15,7 @@ __pycache__/
 
 # Streamlit cache
 .streamlit/
+.streamlit/secrets.toml
 
 # Jupyter and data
 .ipynb_checkpoints/
